@@ -14,6 +14,7 @@ Final result expected:
 ![image](https://user-images.githubusercontent.com/66919203/84642257-c82d7480-af2e-11ea-8e8b-3cb2250552cb.png)
 
 Sample output of MissWorld_Java.java:
+
 (NOTE: All number values are generated randomly during runtime)
 
 ![image](https://user-images.githubusercontent.com/66919203/84642383-f743e600-af2e-11ea-9d16-d5765d333c15.png)
