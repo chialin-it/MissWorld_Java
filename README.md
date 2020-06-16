@@ -1,5 +1,5 @@
 # MissWorld_Java
-This is a school assignment that focuses on Object ArrayList in Java programming.
+This is a UOW school assignment that focuses on Object ArrayList in Java programming.
 
 UML diagram for this assignment:
 
